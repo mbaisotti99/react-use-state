@@ -37,7 +37,9 @@ function App() {
         })}
         </div>
         {curLanguage && <Card
+          tit={curLanguage.title}
           desc={curLanguage.description}
+          img={`/${curLanguage.title.toLowerCase()}.png`}
         />
         }
       </div>

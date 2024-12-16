@@ -2,3 +2,22 @@
     font-size: 40px;
     padding: 25px;
 }
+
+.topCard{
+    display: grid;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+}
+
+.cardImg{
+    width: 300px;
+    justify-self: center;
+    margin: 20px;  
+}
+
+.cardTitle{
+    text-align: center;
+    font-size: 60px;
+    margin: 20px 0;
+}

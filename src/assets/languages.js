@@ -16,7 +16,7 @@ const languages = [
   },
   {
     id: 4,
-    title: "Node.js",
+    title: "NodeJS",
     description: "Node.js è un ambiente di runtime JavaScript lato server che permette di utilizzare JavaScript anche sul backend, consentendo agli sviluppatori di usare lo stesso linguaggio sia sul client che sul server."
   },
   {
